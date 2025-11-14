@@ -1,7 +1,7 @@
 namespace: smartops-api
 
 image:
-  imageRepository: docker.io/phengbunath/uuuu
+  imageRepository:1
   tag: 1
 
 service:
